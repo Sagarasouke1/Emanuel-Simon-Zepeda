@@ -180,7 +180,7 @@ Análisis y validación de discrepancias financieras entre sistemas operativos y
 ## 📜 Certificaciones
 
 📎 Repositorio completo:
-👉 https://github.com/TU_USUARIO/certificaciones-emanuel-simon
+👉 https://github.com/Sagarasouke1/certificaciones-emanuel-simon
 
 ---
 
@@ -188,7 +188,7 @@ Análisis y validación de discrepancias financieras entre sistemas operativos y
 
 * 📧 [emanuelsimon@hotmail.com](mailto:emanuelsimon@hotmail.com)
 * 💼 LinkedIn: (agregar enlace)
-* 💻 GitHub: https://github.com/TU_USUARIO
+* 💻 GitHub: https://github.com/Sagarasouke1
 
 ---
 
