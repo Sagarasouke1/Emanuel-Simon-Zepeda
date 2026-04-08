@@ -103,7 +103,7 @@ Validación y análisis de discrepancias financieras.
 
 ## 📫 Contacto
 
-* 📧 [esimon@aeo.mx](mailto:esimon@aeo.mx)
+* 📧 [emanuelsimon@hotmail.com](mailto:emanuelsimon@hotmail.com)
 * 💼 LinkedIn: (agregar)
 
 ---
